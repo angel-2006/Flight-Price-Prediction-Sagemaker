@@ -3,5 +3,5 @@ pandas
 scikit-learn
 streamlit
 feature-engine
-xgboost
+xgboost==1.7.6
 joblib
